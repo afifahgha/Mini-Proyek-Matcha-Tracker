@@ -11,7 +11,7 @@
 - Program Studi : PSTI
 
 ## Permintaan Program
-Kakak ingin dibuatkan program untuk menghitung jumlah kafein pada Matcha dan memberikan peringatan jika jumlah kafein melebihi batas harian
+> Kakak ingin dibuatkan program untuk menghitung jumlah kafein pada Matcha dan memberikan peringatan jika jumlah kafein melebihi batas harian
 
 ## Penjelasan Program
 - Bahasa pemrograman yang digunakan: C
